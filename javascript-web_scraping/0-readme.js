@@ -1,1 +1,1 @@
-#!/opt/homebrew/bin/node
+#!/usr/bin/node
