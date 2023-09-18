@@ -1,5 +1,4 @@
-#!/opt/homebrew/bin/node
-
+#!/usr/bin/node
 const request = require('request');
 
 // Récupération de l'URL depuis le 1er argv en ligne de commande.
