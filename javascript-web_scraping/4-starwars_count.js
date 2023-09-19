@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/node
+#!/usr/bin/node
 const request = require('request');
 let countFilms = 0;
 
