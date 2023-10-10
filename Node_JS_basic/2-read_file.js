@@ -9,7 +9,7 @@ function countStudents(path) {
       const [firstName, lastName, age, field] = line.split(',');
 
       return {
-        firstName, lastName, age, field,
+        firstName, lastName, age, field
       };
     });
 
