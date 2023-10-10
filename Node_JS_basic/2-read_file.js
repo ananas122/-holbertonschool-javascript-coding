@@ -24,4 +24,4 @@ function countStudents(path) {
   }
 }
 
-module.exports = countStudent
+module.exports = countStudents;
